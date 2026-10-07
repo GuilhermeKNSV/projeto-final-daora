@@ -6,9 +6,9 @@
 
 | | |
 |---|---|
-| **Aluno(a)** | Seu nome completo |
+| **Aluno(a)** | Guilherme Kauan |
 | **Turma** | |
-| **Opção escolhida** | Ordens de Serviço · Controle de Estoque · Agendamento de Serviços · Proposta própria |
+| **Opção escolhida** | Agendamento de Serviços |
 | **Versão atual** | 0.1.0 |
 
 ---
