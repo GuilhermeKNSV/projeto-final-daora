@@ -31,7 +31,7 @@ Quando os horários são combinados só por mensagem ou anotados manualmente, po
 | Funcionalidades principais | Cadastro de clientes e serviços, escolha do barbeiro, agendamento por dia e horário, bloqueio de horários ocupados e painel para o administrador acompanhar e cancelar reservas. |
 | Informações que o sistema guarda | Dados dos clientes, serviços oferecidos, barbeiros, data e horário de cada agendamento e situação do atendimento. |
 | Indicadores (o que o gestor quer acompanhar) | Agendamentos do dia, agendamentos cancelados e atendimentos atrasados. |
-| Restrições (prazo, tecnologia, equipe) | Projeto individual, feito em Java 21 e Spring Boot 4, seguindo os encontros do curso. Primeira versão prevista para 11/11/2026. |
+| Restrições (prazo, tecnologia, equipe) | Projeto solo, Java 21, previsto para 24/02/2027 |
 
 ---
 
