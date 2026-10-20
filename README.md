@@ -17,8 +17,6 @@ O **BarberShop** é um projeto de agenda online para barbearia. A ideia é que o
 
 O administrador vai ter uma área para acompanhar os agendamentos, cancelar horários quando necessário e identificar os atendimentos que ficaram atrasados.
 
-O projeto ainda está em desenvolvimento. Por enquanto, a aplicação inicial já roda com Java e Spring Boot; as funções de agendamento serão criadas ao longo dos encontros.
-
 ### 1.1 Problema
 
 Quando os horários são combinados só por mensagem ou anotados manualmente, pode acontecer de duas pessoas marcarem com o mesmo barbeiro no mesmo horário. Também fica mais difícil saber quem está agendado, quais horários estão livres e quais atendimentos estão atrasados.
