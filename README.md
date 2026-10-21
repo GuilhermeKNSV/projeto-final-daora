@@ -4,7 +4,7 @@ Sistema de agendamento de horários para uma barbearia.
 
 | Campo | Informação |
 |---|---|
-| Aluno(a) | |
+| Aluno(a) |Guilherme Kauan da Silva|
 | Turma | |
 | Opção escolhida | Agendamento de Serviços |
 | Versão atual | 0.1.0 |
